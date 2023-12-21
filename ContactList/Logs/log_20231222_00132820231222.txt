@@ -1,0 +1,10 @@
+2023-12-22 00:13:28.281 +05:30 [INF] New user Signup and Login test started
+2023-12-22 00:13:29.089 +05:30 [INF] User entered Firstname,Lastname,Email,Password and Clicked on Submit Button
+2023-12-22 00:13:30.597 +05:30 [INF] By Valid Credentials User Logged in Successfully
+2023-12-22 00:13:31.297 +05:30 [INF] User can add new contact details by taking values from Excel
+2023-12-22 00:13:31.527 +05:30 [INF] The details for adding account details selected
+2023-12-22 00:13:32.393 +05:30 [INF] Adding Contact Details Completed
+2023-12-22 00:13:34.592 +05:30 [INF] User is able to view Contact Details
+2023-12-22 00:13:35.636 +05:30 [INF] Delete Contact Details Completed
+2023-12-22 00:13:36.486 +05:30 [INF] User Logged Out Successfully
+2023-12-22 00:13:37.431 +05:30 [INF] Adding Contact And Removing Contact Test success
